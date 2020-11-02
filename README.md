@@ -19,4 +19,3 @@ Steps taken in problem solving :
     Logistic regression Classification
     Cross-Validation
     Evaluate the accuracy, precision, recall and F-score
-8. Apply the transformation on provided test data to get the results
