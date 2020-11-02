@@ -4,18 +4,18 @@ Using the demographic and behavioral attributes of the employees help the compan
 Steps taken in problem solving :
 1. Import all Libraries
 2. Download the data files
-    Train file
-    Test file
+    a. Train file
+    b. Test file
 3. Understanding the data
 4. Missing value treatment
 5. Exploratory data analysis
-    Univariate analysis
-    Bivariate analysis
-    Multivariate analysis
+    a. Univariate analysis
+    b. Bivariate analysis
+    c. Multivariate analysis
 6. Prepare the data for model
-    Scaling the data
-    One-hot encoding
+    a. Scaling the data
+    b. One-hot encoding
 7. Train and test the model
-    Logistic regression Classification
-    Cross-Validation
-    Evaluate the accuracy, precision, recall and F-score
+    a. Logistic regression Classification
+    b. Cross-Validation
+    c. Evaluate the accuracy, precision, recall and F-score
